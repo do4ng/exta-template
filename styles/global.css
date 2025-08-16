@@ -1,0 +1,10 @@
+:root {
+  --text-color: #1d1c1cff;
+  --bg-color: #ffff;
+}
+
+html,
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
