@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "@vitejs/plugin-react": "^5.0.0",
-    "exta": "../nudo/packages/exta",
+    "exta": "^0.0.1-beta.16",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "vite": "^7.1.2"
