@@ -1,4 +1,5 @@
 import { Link } from "exta/components";
+import "../styles/global.css";
 
 export default function ({ children }) {
   return (

@@ -5,9 +5,11 @@
     "strict": false,
     "esModuleInterop": true,
     "jsx": "react-jsx",
-    "moduleResolution": "node",
+    "moduleResolution": "nodenext",
+    "module": "nodenext",
     "resolveJsonModule": true,
-    "baseUrl": "."
+    "baseUrl": ".",
+    "types": ["./env.d.ts", "@types/node"]
   },
-  "include": ["./env.d.ts"]
+  "exclude": ["dist", ".exta"]
 }
